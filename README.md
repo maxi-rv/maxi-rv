@@ -2,13 +2,13 @@
 
 a 27 y.o. Argentinian/Chilean, student of **Software Engineering** at **UNS**, **iOS Mobile Developer** at **Globant**, and a hobbyst **Unity Game Developer**.
 
-- 🌱 I’m currently learning iOS Development with Swift and XCode.
+- 🌱 I’m currently improving my iOS App Development skills.
 - 🗂️ Workplace GitHub: [Maximiliano.Riquelme](https://www.github.com/maximilianoRiquelme)
 - 💬 Twitter: [@Maxi_RV_Raxor](https://twitter.com/maxi_rv_raxor)
 - 💼 LinkedIn: [Maxi-RV](https://www.linkedin.com/in/maxi-rv)
 - 📫 Mail: m.riquelme.vera@hotmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't own an iPhone.
+- ⚡ Fun fact: I don't own an iPhone. (Yet)
 
 <!--
 **maxi-rv/maxi-rv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
