@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Maximiliano Riquelme Vera...
 
-a 27 y.o. Argentinian/Chilean, student of **Software Engineering** at **UNS**, **iOS Mobile Developer** at **Globant**, and a hobbyst **Unity Game Developer**.
+a 27 y.o. Argentinian/Chilean, student of **Software Engineering** at **UNS**, **iOS Mobile Developer** at **Globant**, and a hobbyst **Game Developer**.
 
 - 🌱 I’m currently improving my iOS App Development skills.
 - 🗂️ Workplace GitHub: [Maximiliano.Riquelme](https://www.github.com/maximilianoRiquelme)
