@@ -2,7 +2,6 @@
 
 a 28 y.o. Argentinian/Chilean, student of **Software Engineering** at **UNS**, **iOS Mobile Developer**, and a hobbyst **Game Developer**.
 
-- 🌱 I’m currently improving my iOS App Development skills.
 - 💼 LinkedIn: [Maxi-RV](https://www.linkedin.com/in/maxi-rv)
 - 📫 Mail: m.riquelme.vera@hotmail.com
 - 😄 Pronouns: He/Him
