@@ -3,7 +3,7 @@
 a 29 y.o. Argentinian/Chilean, student of **Software Engineering** at **UNS**, **iOS Mobile Developer**, and a hobbyst **Game Developer**.
 
 - 💼 LinkedIn: [Maxi-RV](https://www.linkedin.com/in/maxi-rv)
-- 😄 Pronouns: He/Him
+
 
 <!--
 **maxi-rv/maxi-rv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
