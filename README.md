@@ -1,9 +1,8 @@
 ### Hi there 👋 I'm Maximiliano Riquelme Vera...
 
-a 28 y.o. Argentinian/Chilean, student of **Software Engineering** at **UNS**, **iOS Mobile Developer**, and a hobbyst **Game Developer**.
+a 29 y.o. Argentinian/Chilean, student of **Software Engineering** at **UNS**, **iOS Mobile Developer**, and a hobbyst **Game Developer**.
 
 - 💼 LinkedIn: [Maxi-RV](https://www.linkedin.com/in/maxi-rv)
-- 📫 Mail: m.riquelme.vera@hotmail.com
 - 😄 Pronouns: He/Him
 
 <!--
